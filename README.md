@@ -1,0 +1,2 @@
+# cookie-banner
+Personal use
